@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjPersistencia.Front", "EjPersistencia.Front\EjPersistencia.Front.csproj", "{1776A4E2-2998-4579-A83E-76BA05142933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjPersistencia.Back", "EjPersistencia.Back\EjPersistencia.Back.csproj", "{99FE7B63-7AD3-4A9B-B0A9-750CD732C940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1776A4E2-2998-4579-A83E-76BA05142933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1776A4E2-2998-4579-A83E-76BA05142933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1776A4E2-2998-4579-A83E-76BA05142933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1776A4E2-2998-4579-A83E-76BA05142933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FE7B63-7AD3-4A9B-B0A9-750CD732C940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FE7B63-7AD3-4A9B-B0A9-750CD732C940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FE7B63-7AD3-4A9B-B0A9-750CD732C940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FE7B63-7AD3-4A9B-B0A9-750CD732C940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1553D17D-645B-416E-AA50-BE76407C61DD}
+	EndGlobalSection
+EndGlobal
